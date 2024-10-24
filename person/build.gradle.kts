@@ -3,7 +3,7 @@ import com.expediagroup.graphql.plugin.gradle.graphql
 plugins {
     id("common")
     `java-library`
-    id("com.expediagroup.graphql") version "7.1.5"
+    id("com.expediagroup.graphql") version "8.2.0"
 }
 
 dependencies {
